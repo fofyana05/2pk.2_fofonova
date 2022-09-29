@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-          { 
-            Console.WriteLine("работа с git");
-          }
+            {
+                Console.WriteLine("работа с git");
+            }
             int i;
             for (i = -50; i < 0; i += 5)
                 Console.WriteLine(i);
